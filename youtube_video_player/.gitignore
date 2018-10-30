@@ -6,3 +6,6 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+# dont't use api key file
+keys.js
